@@ -1,0 +1,110 @@
+
+.page{
+height: 180vh;
+width: 100vw;
+display: flex;
+flex-direction: column;
+background: black;
+justify-content: space-evenly;
+align-items: center;
+
+}
+.slider_box{
+height: 45%;
+width: 80%;
+display: flex;
+flex-direction: row;
+background: darkgoldenrod;
+justify-content: space-evenly;
+align-items: center;
+}
+.slider_left{
+    display: flex;  
+    background: darkorange;
+    width: 27%;
+    height: 80%;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.slider_middle{
+    display: flex;  
+    background: deepskyblue;
+    width: 27%;
+    height: 80%;    
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.slider_right{
+    display: flex;  
+    background: mediumspringgreen;
+    width: 27%;
+    height: 80%;
+    align-items: center;
+    justify-content: center;
+}
+.new{
+    height: 100px;
+    width: 100px;
+    background: grey;
+}
+
+.arrow_left{
+    height: 50%;
+    width: auto;
+    display: block;
+    cursor: pointer;
+}
+.arrow_right{
+    height: 50%;
+    width: auto;
+    display: block;
+    transform: rotate(180deg);
+    cursor: pointer;
+}
+.cent_img{
+    height: 42vh;
+    width: auto;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: none;
+    display: block;
+
+}
+.info_box{
+height: 45%;
+width: 40%;
+background: darkgoldenrod;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.info_box_inner{
+    height: 77%;
+    width: 77%; 
+    background: palevioletred;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.info_name{
+    font-family: 'Shizuru', cursive;
+    font-size: 50px;
+    font-weight: 600;
+    letter-spacing: 2.5px;
+
+}
+.info_desc{
+    font-family: 'Syne Tactile', cursive;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1.8px;
+    line-height: normal;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}

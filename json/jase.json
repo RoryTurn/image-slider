@@ -1,0 +1,82 @@
+
+{
+    "monsterData":[
+    {
+        "text": "Abomination",
+        "id": 1,
+        "pic": "./img/abom.png",
+        "desc": "Almost completely snakelike, with only a few human features, such as arms or a humanoid head. They are the most venerated within the yuan-ti society, serving as clerics and in other roles of power."
+
+    },
+    {
+        "text": "Anathema",
+        "id": 2,
+        "pic": "./img/ana.png",
+        "desc": "Anathemas are worshiped as divine incarnations of Merrshaulk. They are bizarre in appearance, with a body like a 25-foot-long serpent; a pair of humanoid arms with clawed hands; and six serpentine heads rising from its shoulders."
+
+    },
+    {
+        "text": "Broodguard",
+        "id": 3,
+        "pic": "./img/broodguard.png",
+        "desc": "Yuan-ti broodguards are humans who had been transformed into reptilian humanoid slaves. They were called histachii in the yuan-ti language, which translated to egg-watchers."
+
+    },
+    {
+        "text": "Holy Guardian",
+        "id": 4,
+        "pic": "./img/holy.png",
+        "desc": "A rare breed of Yuan Ti specifically bred as temple guards, holy guardians uniformly had a serpentine tail in place of legs and a snakelike head. They had divine inspired abilities."
+
+    },
+    {
+        "text": "Ignan",
+        "id": 5,
+        "pic": "./img/ignan.png",
+        "desc": "A volatile subspecies created by infusing yuan-ti with elemental energies. They were created via magical crossbreeding with Yuan Ti with Salamanders from the Elemental Palne of Fire."
+
+    },
+    {
+        "text": "Malison/Half-Breed",
+        "id": 6,
+        "pic": "./img/malison.png",
+        "desc": "Also called half bloods, they are humanoid in shape but had a wide variety of noticeable serpentine features, such as a snakelike tail in place of legs,a complete covering of scales, or a hood like a cobra, a snake's head, or snakes in place of arms."
+
+    },
+    {
+        "text": "Ophidian",
+        "id": 7,
+        "pic": "./img/oph.png",
+        "desc": "Ophidians (also pluralized as ophidia and also known as snakemen) are a cruel race of serpentfolk that often served as slaves to the yuan-ti or spirit nagas. With the pterafolk, they were counted among the Hidden Folk."
+
+    },
+    {
+        "text": "Pureblood",
+        "id": 8,
+        "pic": "./img/pure.png",
+        "desc": "Purebloods appeared mostly human, with minor reptilian features, such as slit eyes, a forked tongue, or patches of scales on their skin. They infiltrate human society with these gifts."
+
+    },
+    {
+        "text": "Sarrukh",
+        "id": 9,
+        "pic": "./img/sarr.png",
+        "desc": "The sarrukh, also known as the saurians and the progenitors of the Scaled Ones, were an ancient reptilian race that were counted as one of the creator races native to Abeir-Toril. They established the first great civilizations during the Days of Thunder."
+
+    },
+    {
+        "text": "Mage Slayer",
+        "id": 10,
+        "pic": "./img/slayer.png",
+        "desc": "A rare type of yuan-ti, mageslayers are bred for the special purpose of hunting down magic-users, and most of their abilities are magical rather than psionic. They have a human-like head but a snakelike tail instead of legs."
+
+    },
+    {
+
+        "text": "Snake",
+        "id": 11,
+        "pic": "./img/snake.png",
+        "desc": "Serpents and snakes of all kinds, magical and mundane, posionus and not, surround the Yuan Ti. They are pets, food, guard animals, sacrifices and more in Yuan Ti society."
+
+    }
+]}
