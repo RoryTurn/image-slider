@@ -56,13 +56,17 @@ align-items: center;
     height: 50%;
     width: auto;
     display: block;
+    transform: rotate(180deg);
     cursor: pointer;
+    border: 5px solid gainsboro;
+    border-radius: 40px;
 }
 .arrow_right{
     height: 50%;
     width: auto;
     display: block;
-    transform: rotate(180deg);
+    border: 5px solid gainsboro;
+    border-radius: 20px; 
     cursor: pointer;
 }
 .cent_img{
